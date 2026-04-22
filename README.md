@@ -3,11 +3,11 @@ It includes small standalone scripts, mini examples, and basic Node.js practice 
 
 The goal of this repo is learning and experimenting, not a single production app.
 
-📂 Project Structure
+ Project Structure
 
 The project contains different types of files:
 
-🧮 JavaScript Practice Files
+ JavaScript Practice Files
 
 These files demonstrate core JavaScript concepts such as:
 
@@ -29,7 +29,7 @@ const airline.js → Airline object example
 
 Many files have duplicates with (1) — these are backup copies created during editing.
 
-🌍 HTML Pages
+ HTML Pages
 
 Basic frontend pages used for practice.
 
@@ -41,7 +41,7 @@ Concepts covered:
 Basic HTML structure
 Forms and input elements
 Page layout
-⚡ Node.js / Express Practice
+ Node.js / Express Practice
 
 This repo also includes a simple backend practice file:
 
@@ -51,7 +51,7 @@ This demonstrates:
 
 Setting up a basic Express server
 Understanding backend basics
-🏥 Mini Logic Programs
+ Mini Logic Programs
 
 Small scenario-based JavaScript programs:
 
@@ -61,7 +61,7 @@ read.js / read-2.js
 
 These simulate real-world use cases using JS logic.
 
-🎯 Purpose of the Repository
+ Purpose of the Repository
 
 This repository was created to practice and understand:
 
@@ -74,7 +74,7 @@ Problem solving using JS
 
 It acts as a learning sandbox for Web Technology subjects.
 
-🚀 How to Run
+ How to Run
 Run HTML Files
 Open any .html file
 Double-click or open in browser
